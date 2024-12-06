@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript error: attempting to access a property of a null object. The error occurs when handling a TextField event, specifically when the loaded text is null.  The bug.as file contains the erroneous code, while bugSolution.as provides a corrected version that safely handles the potential null value.
